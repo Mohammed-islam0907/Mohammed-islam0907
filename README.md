@@ -1,26 +1,32 @@
 
-## About Me ✍🏻
-I am an aspiring DevOps engineer with a passion for automation, continuous integration, and infrastructure management. My goal is to leverage my skills to build and maintain scalable, efficient, and reliable systems. Currently, I'm diving deep into the world of DevOps through a bootcamp program.
+<h1 align="center">Hi 👋, I'm Mohammed Islam</h1>
+<h3 align="center">An aspiring DevOps Engineer from London</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammed-islam0907&label=Profile%20views&color=0e75b6&style=flat" alt="mohammed-islam0907" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammed-islam0907" alt="mohammed-islam0907" /></a> </p>
 
-As I continue to learn and develop my DevOps skills, I welcome contributions and feedback. If you have suggestions or improvements, please feel free to submit a pull request or open an issue.
+- 🌱 I’m currently learning/will be learning **everything DevOps related**
 
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Commit your changes (`git commit -am 'Add new feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Open a pull request.
+- 👨‍💻 All of my projects are available at [https://github.com/Mohammed-islam0907/learning-devops.git](https://github.com/Mohammed-islam0907/learning-devops.git)
 
-## License
+- 📝 I am documenting my DevOps journey on LinkedIn [https://www.linkedin.com/in/mohammed-islam-735a85262/](https://www.linkedin.com/in/mohammed-islam-735a85262/)
 
-## Contact
+- 💬 Ask me about **Linux/Bash fundamentals**
 
-If you have any questions or would like to connect, feel free to reach out:
+- 📫 How to reach me **https://www.linkedin.com/in/mohammed-islam-735a85262/**
 
- **LinkedIn**: [Click here to connect!!💻](https://www.linkedin.com/in/mohammed-islam-735a85262/)
+- ⚡ Fun fact **I came from a construction background and started working in Tech in August 2024 and run a family perfume business**
 
-<!---
-Mohammed-islam0907/Mohammed-islam0907 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammed-islam0907&show_icons=true&locale=en&layout=compact" alt="mohammed-islam0907" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammed-islam0907&show_icons=true&locale=en" alt="mohammed-islam0907" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed-islam0907&" alt="mohammed-islam0907" /></p>
